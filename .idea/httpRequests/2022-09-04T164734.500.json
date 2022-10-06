@@ -1,0 +1,6 @@
+{
+  "timestamp": "2022-09-04T14:47:34.414+00:00",
+  "status": 500,
+  "error": "Internal Server Error",
+  "path": "/cardset/record"
+}

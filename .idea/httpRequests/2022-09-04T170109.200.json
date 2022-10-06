@@ -1,0 +1,48 @@
+{
+  "id": "8690949b-b44b-4bb0-9dd9-e267c84fce0e",
+  "cardsetName": "Fruits",
+  "language1": "de",
+  "language2": "en",
+  "cards": [
+    {
+      "id": "18f1024b-b280-4803-9cc8-954a4aa0b801",
+      "wordLng1": "Apfel",
+      "wordLng2": "apple"
+    },
+    {
+      "id": "986614e1-db47-4799-94cf-0146276a2dca",
+      "wordLng1": "Pfirsich",
+      "wordLng2": "peach"
+    },
+    {
+      "id": "c983ea01-e645-4b12-ac2b-29ad1a0c7eb1",
+      "wordLng1": "Banane",
+      "wordLng2": "banana"
+    },
+    {
+      "id": "b87be37a-7f0c-4d52-b53c-9d204cfd91f1",
+      "wordLng1": "Erdbeere",
+      "wordLng2": "strawberry"
+    },
+    {
+      "id": "0c7aefe6-49ff-4e3f-8cdd-14246eff1273",
+      "wordLng1": "Kirsche",
+      "wordLng2": "cherry"
+    },
+    {
+      "id": "114806f9-547d-40b8-ba21-e3073ef3ca93",
+      "wordLng1": "Zitrone",
+      "wordLng2": "lemon"
+    },
+    {
+      "id": "7aa5f51b-1d38-46a0-9a4b-d15ecef65671",
+      "wordLng1": "Blaubeere",
+      "wordLng2": "blueberry"
+    },
+    {
+      "id": "b537c0f0-9e61-4e6f-ab67-2351d9fba479",
+      "wordLng1": "Trauben",
+      "wordLng2": "grapes"
+    }
+  ]
+}

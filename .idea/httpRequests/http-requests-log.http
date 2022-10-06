@@ -1,0 +1,2022 @@
+DELETE https://memorybe.herokuapp.com/cardset/cf8ba8fe-da7d-455e-85cc-0287acee676f
+
+<> 2022-09-08T190956.405.json
+
+###
+
+DELETE https://memorybe.herokuapp.com/cf8ba8fe-da7d-455e-85cc-0287acee676f
+
+<> 2022-09-08T190941.404.json
+
+###
+
+POST http://localhost:8085/cardset/record
+Content-Type: application/json
+
+{
+  "id": "1",
+  "cardsetName": "Fruits",
+  "language1": "de",
+  "language2": "en",
+  "cardsetCards":[
+    {
+      "id": 1,
+      "wordLng1": "Apfel",
+      "wordLng2": "apple"
+    },
+    {
+      "id": 2,
+      "wordLng1": "Pfirsich",
+      "wordLng2": "peach"
+    },
+    {
+      "id": 3,
+      "wordLng1": "Banane",
+      "wordLng2": "banana"
+    },
+    {
+      "id": 4,
+      "wordLng1": "Erdbeere",
+      "wordLng2": "strawberry"
+    },
+    {
+      "id": 5,
+      "wordLng1": "Kirsche",
+      "wordLng2": "cherry"
+    },
+    {
+      "id": 6,
+      "wordLng1": "Zitrone",
+      "wordLng2": "lemon"
+    },
+    {
+      "id": 7,
+      "wordLng1": "Blaubeere",
+      "wordLng2": "blueberry"
+    },
+    {
+      "id": 8,
+      "wordLng1": "Trauben",
+      "wordLng2": "grapes"
+    }
+  ]
+}
+
+<> 2022-09-04T170109.200.json
+
+###
+
+POST http://localhost:8085/cardset/record
+Content-Type: application/json
+
+{
+  "id": "1",
+  "cardsetName": "Fruits",
+  "language1": "de",
+  "language2": "en",
+  "cards":[
+    {
+      "id": 1,
+      "wordLng1": "Apfel",
+      "wordLng2": "apple"
+    },
+    {
+      "id": 2,
+      "wordLng1": "Pfirsich",
+      "wordLng2": "peach"
+    },
+    {
+      "id": 3,
+      "wordLng1": "Banane",
+      "wordLng2": "banana"
+    },
+    {
+      "id": 4,
+      "wordLng1": "Erdbeere",
+      "wordLng2": "strawberry"
+    },
+    {
+      "id": 5,
+      "wordLng1": "Kirsche",
+      "wordLng2": "cherry"
+    },
+    {
+      "id": 6,
+      "wordLng1": "Zitrone",
+      "wordLng2": "lemon"
+    },
+    {
+      "id": 7,
+      "wordLng1": "Blaubeere",
+      "wordLng2": "blueberry"
+    },
+    {
+      "id": 8,
+      "wordLng1": "Trauben",
+      "wordLng2": "grapes"
+    }
+  ]
+}
+
+<> 2022-09-04T165452.500.json
+
+###
+
+POST http://localhost:8085/cardset/record
+Content-Type: application/json
+
+{
+  "id": "1",
+  "cardsetName": "Fruits",
+  "language1": "de",
+  "language2": "en",
+  "card":[
+    {
+      "id": 1,
+      "wordLng1": "Apfel",
+      "wordLng2": "apple"
+    },
+    {
+      "id": 2,
+      "wordLng1": "Pfirsich",
+      "wordLng2": "peach"
+    },
+    {
+      "id": 3,
+      "wordLng1": "Banane",
+      "wordLng2": "banana"
+    },
+    {
+      "id": 4,
+      "wordLng1": "Erdbeere",
+      "wordLng2": "strawberry"
+    },
+    {
+      "id": 5,
+      "wordLng1": "Kirsche",
+      "wordLng2": "cherry"
+    },
+    {
+      "id": 6,
+      "wordLng1": "Zitrone",
+      "wordLng2": "lemon"
+    },
+    {
+      "id": 7,
+      "wordLng1": "Blaubeere",
+      "wordLng2": "blueberry"
+    },
+    {
+      "id": 8,
+      "wordLng1": "Trauben",
+      "wordLng2": "grapes"
+    }
+  ]
+}
+
+<> 2022-09-04T165432.500.json
+
+###
+
+POST http://localhost:8085/cardset/record
+Content-Type: application/json
+
+{
+  "cardsetName": "Fruits",
+  "language1": "de",
+  "language2": "en",
+  "card":[
+    {
+      "id": 1,
+      "wordLng1": "Apfel",
+      "wordLng2": "apple"
+    },
+    {
+      "id": 2,
+      "wordLng1": "Pfirsich",
+      "wordLng2": "peach"
+    },
+    {
+      "id": 3,
+      "wordLng1": "Banane",
+      "wordLng2": "banana"
+    },
+    {
+      "id": 4,
+      "wordLng1": "Erdbeere",
+      "wordLng2": "strawberry"
+    },
+    {
+      "id": 5,
+      "wordLng1": "Kirsche",
+      "wordLng2": "cherry"
+    },
+    {
+      "id": 6,
+      "wordLng1": "Zitrone",
+      "wordLng2": "lemon"
+    },
+    {
+      "id": 7,
+      "wordLng1": "Blaubeere",
+      "wordLng2": "blueberry"
+    },
+    {
+      "id": 8,
+      "wordLng1": "Trauben",
+      "wordLng2": "grapes"
+    }
+  ]
+}
+
+<> 2022-09-04T164917.500.json
+
+###
+
+POST http://localhost:8085/api/cardset/record
+Content-Type: application/json
+
+{
+  "cardsetName": "Fruits",
+  "language1": "de",
+  "language2": "en",
+  "card":[
+    {
+      "id": 1,
+      "wordLng1": "Apfel",
+      "wordLng2": "apple"
+    },
+    {
+      "id": 2,
+      "wordLng1": "Pfirsich",
+      "wordLng2": "peach"
+    },
+    {
+      "id": 3,
+      "wordLng1": "Banane",
+      "wordLng2": "banana"
+    },
+    {
+      "id": 4,
+      "wordLng1": "Erdbeere",
+      "wordLng2": "strawberry"
+    },
+    {
+      "id": 5,
+      "wordLng1": "Kirsche",
+      "wordLng2": "cherry"
+    },
+    {
+      "id": 6,
+      "wordLng1": "Zitrone",
+      "wordLng2": "lemon"
+    },
+    {
+      "id": 7,
+      "wordLng1": "Blaubeere",
+      "wordLng2": "blueberry"
+    },
+    {
+      "id": 8,
+      "wordLng1": "Trauben",
+      "wordLng2": "grapes"
+    }
+  ]
+}
+
+<> 2022-09-04T164907.404.json
+
+###
+
+POST http://localhost:8085/cardset/record
+Content-Type: application/json
+
+{
+  "cardsetName": "Fruits",
+  "language1": "de",
+  "language2": "en",
+  "card":[
+    {
+      "id": 1,
+      "wordLng1": "Apfel",
+      "wordLng2": "apple"
+    },
+    {
+      "id": 2,
+      "wordLng1": "Pfirsich",
+      "wordLng2": "peach"
+    },
+    {
+      "id": 3,
+      "wordLng1": "Banane",
+      "wordLng2": "banana"
+    },
+    {
+      "id": 4,
+      "wordLng1": "Erdbeere",
+      "wordLng2": "strawberry"
+    },
+    {
+      "id": 5,
+      "wordLng1": "Kirsche",
+      "wordLng2": "cherry"
+    },
+    {
+      "id": 6,
+      "wordLng1": "Zitrone",
+      "wordLng2": "lemon"
+    },
+    {
+      "id": 7,
+      "wordLng1": "Blaubeere",
+      "wordLng2": "blueberry"
+    },
+    {
+      "id": 8,
+      "wordLng1": "Trauben",
+      "wordLng2": "grapes"
+    }
+  ]
+}
+
+<> 2022-09-04T164734.500.json
+
+###
+
+POST http://localhost:8085/cardset
+Content-Type: application/json
+
+{
+  "cardsetName": "Fruits",
+  "language1": "de",
+  "language2": "en",
+  "card":[
+    {
+      "id": 1,
+      "wordLng1": "Apfel",
+      "wordLng2": "apple"
+    },
+    {
+      "id": 2,
+      "wordLng1": "Pfirsich",
+      "wordLng2": "peach"
+    },
+    {
+      "id": 3,
+      "wordLng1": "Banane",
+      "wordLng2": "banana"
+    },
+    {
+      "id": 4,
+      "wordLng1": "Erdbeere",
+      "wordLng2": "strawberry"
+    },
+    {
+      "id": 5,
+      "wordLng1": "Kirsche",
+      "wordLng2": "cherry"
+    },
+    {
+      "id": 6,
+      "wordLng1": "Zitrone",
+      "wordLng2": "lemon"
+    },
+    {
+      "id": 7,
+      "wordLng1": "Blaubeere",
+      "wordLng2": "blueberry"
+    },
+    {
+      "id": 8,
+      "wordLng1": "Trauben",
+      "wordLng2": "grapes"
+    }
+  ]
+}
+
+<> 2022-09-04T164619.404.json
+
+###
+
+POST http://localhost:8085/cardset
+Content-Type: application/json
+
+{
+  "cardsetName": "Fruits",
+  "language1": "de",
+  "language2": "en",
+  "card":[
+    {
+      "id": 1,
+      "wordLng1": "Apfel",
+      "wordLng2": "apple"
+    },
+    {
+      "id": 2,
+      "wordLng1": "Pfirsich",
+      "wordLng2": "peach"
+    },
+    {
+      "id": 3,
+      "wordLng1": "Banane",
+      "wordLng2": "banana"
+    },
+    {
+      "id": 4,
+      "wordLng1": "Erdbeere",
+      "wordLng2": "strawberry"
+    },
+    {
+      "id": 5,
+      "wordLng1": "Kirsche",
+      "wordLng2": "cherry"
+    },
+    {
+      "id": 6,
+      "wordLng1": "Zitrone",
+      "wordLng2": "lemon"
+    },
+    {
+      "id": 7,
+      "wordLng1": "Blaubeere",
+      "wordLng2": "blueberry"
+    },
+    {
+      "id": 8,
+      "wordLng1": "Trauben",
+      "wordLng2": "grapes"
+    }
+  ]
+}
+
+<> 2022-09-04T164546.404.json
+
+###
+
+POST http://localhost:8085
+Content-Type: application/json
+
+{
+  "cardsetName": "Fruits",
+  "language1": "de",
+  "language2": "en",
+  "card":[
+    {
+      "id": 1,
+      "wordLng1": "Apfel",
+      "wordLng2": "apple"
+    },
+    {
+      "id": 2,
+      "wordLng1": "Pfirsich",
+      "wordLng2": "peach"
+    },
+    {
+      "id": 3,
+      "wordLng1": "Banane",
+      "wordLng2": "banana"
+    },
+    {
+      "id": 4,
+      "wordLng1": "Erdbeere",
+      "wordLng2": "strawberry"
+    },
+    {
+      "id": 5,
+      "wordLng1": "Kirsche",
+      "wordLng2": "cherry"
+    },
+    {
+      "id": 6,
+      "wordLng1": "Zitrone",
+      "wordLng2": "lemon"
+    },
+    {
+      "id": 7,
+      "wordLng1": "Blaubeere",
+      "wordLng2": "blueberry"
+    },
+    {
+      "id": 8,
+      "wordLng1": "Trauben",
+      "wordLng2": "grapes"
+    }
+  ]
+}
+
+<> 2022-09-04T164501.404.json
+
+###
+
+POST http://localhost:8085
+Content-Type: application/json
+
+{
+  "cardsetName": "Fruits",
+  "language1": "de",
+  "language2": "en",
+  "card":[
+    {
+      "id": 1,
+      "wordLng1": "Apfel",
+      "wordLng2": "apple"
+    },
+    {
+      "id": 2,
+      "wordLng1": "Pfirsich",
+      "wordLng2": "peach"
+    },
+    {
+      "id": 3,
+      "wordLng1": "Banane",
+      "wordLng2": "banana"
+    },
+    {
+      "id": 4,
+      "wordLng1": "Erdbeere",
+      "wordLng2": "strawberry"
+    },
+    {
+      "id": 5,
+      "wordLng1": "Kirsche",
+      "wordLng2": "cherry"
+    },
+    {
+      "id": 6,
+      "wordLng1": "Zitrone",
+      "wordLng2": "lemon"
+    },
+    {
+      "id": 7,
+      "wordLng1": "Blaubeere",
+      "wordLng2": "blueberry"
+    },
+    {
+      "id": 8,
+      "wordLng1": "Trauben",
+      "wordLng2": "grapes"
+    }
+  ]
+}
+
+<> 2022-09-04T164350.404.json
+
+###
+
+POST http://localhost:8085/cardset
+Content-Type: application/json
+
+{
+  "cardsetName": "Animals",
+  "language1": "de",
+  "language2": "en",
+  "card":[
+    {
+      "id": "1",
+      "wordLng1": "Hund",
+      "wordLng2": "dog"
+    },
+    {
+      "id": "2",
+      "wordLng1": "Katze",
+      "wordLng2": "cat"
+    },
+    {
+      "id": "3",
+      "wordLng1": "Pferd",
+      "wordLng2": "horse"
+    },
+    {
+      "id": "4",
+      "wordLng1": "Löwe",
+      "wordLng2": "lion"
+    },
+    {
+      "id": "5",
+      "wordLng1": "Elefant",
+      "wordLng2": "elephant"
+    },
+    {
+      "id": "6",
+      "wordLng1": "Eichhörnchen",
+      "wordLng2": "squirrel"
+    },
+    {
+      "id": "7",
+      "wordLng1": "Vogel",
+      "wordLng2": "bird"
+    },
+    {
+      "id": "8",
+      "wordLng1": "Schwein",
+      "wordLng2": "pig"
+    }
+  ]
+}
+
+###
+
+POST http://localhost:8085/cardset
+Content-Type: application/json
+
+{
+  "cardsetName": "Animals",
+  "language1": "de",
+  "language2": "en",
+  "card":[
+    {
+      "id": "1",
+      "wordLng1": "Hund",
+      "wordLng2": "dog"
+    },
+    {
+      "id": "2",
+      "wordLng1": "Katze",
+      "wordLng2": "cat"
+    },
+    {
+      "id": "3",
+      "wordLng1": "Pferd",
+      "wordLng2": "horse"
+    },
+    {
+      "id": "4",
+      "wordLng1": "Löwe",
+      "wordLng2": "lion"
+    },
+    {
+      "id": "5",
+      "wordLng1": "Elefant",
+      "wordLng2": "elephant"
+    },
+    {
+      "id": "6",
+      "wordLng1": "Eichhörnchen",
+      "wordLng2": "squirrel"
+    },
+    {
+      "id": "7",
+      "wordLng1": "Vogel",
+      "wordLng2": "bird"
+    },
+    {
+      "id": "8",
+      "wordLng1": "Schwein",
+      "wordLng2": "pig"
+    }
+  ]
+}
+
+###
+
+POST http://localhost:8080/cardset
+Content-Type: application/json
+
+{
+  "cardsetName": "Animals",
+  "language1": "de",
+  "language2": "en",
+  "card":[
+    {
+      "id": "1",
+      "wordLng1": "Hund",
+      "wordLng2": "dog"
+    },
+    {
+      "id": "2",
+      "wordLng1": "Katze",
+      "wordLng2": "cat"
+    },
+    {
+      "id": "3",
+      "wordLng1": "Pferd",
+      "wordLng2": "horse"
+    },
+    {
+      "id": "4",
+      "wordLng1": "Löwe",
+      "wordLng2": "lion"
+    },
+    {
+      "id": "5",
+      "wordLng1": "Elefant",
+      "wordLng2": "elephant"
+    },
+    {
+      "id": "6",
+      "wordLng1": "Eichhörnchen",
+      "wordLng2": "squirrel"
+    },
+    {
+      "id": "7",
+      "wordLng1": "Vogel",
+      "wordLng2": "bird"
+    },
+    {
+      "id": "8",
+      "wordLng1": "Schwein",
+      "wordLng2": "pig"
+    }
+  ]
+}
+
+###
+
+POST http://localhost:8085/cardset
+Content-Type: application/json
+
+{
+  "cardsetName": "Animals",
+  "language1": "de",
+  "language2": "en",
+  "card":[
+    {
+      "id": "1",
+      "wordLng1": "Hund",
+      "wordLng2": "dog"
+    },
+    {
+      "id": "2",
+      "wordLng1": "Katze",
+      "wordLng2": "cat"
+    },
+    {
+      "id": "3",
+      "wordLng1": "Pferd",
+      "wordLng2": "horse"
+    },
+    {
+      "id": "4",
+      "wordLng1": "Löwe",
+      "wordLng2": "lion"
+    },
+    {
+      "id": "5",
+      "wordLng1": "Elefant",
+      "wordLng2": "elephant"
+    },
+    {
+      "id": "6",
+      "wordLng1": "Eichhörnchen",
+      "wordLng2": "squirrel"
+    },
+    {
+      "id": "7",
+      "wordLng1": "Vogel",
+      "wordLng2": "bird"
+    },
+    {
+      "id": "8",
+      "wordLng1": "Schwein",
+      "wordLng2": "pig"
+    }
+  ]
+}
+
+###
+
+POST http://localhost:8085/cardset
+Content-Type: application/json
+
+{
+  "cardsetName": "Animals",
+  "language1": "de",
+  "language2": "en",
+  "card":[
+    {
+      "id": "1",
+      "wordLng1": "Hund",
+      "wordLng2": "dog"
+    },
+    {
+      "id": "2",
+      "wordLng1": "Katze",
+      "wordLng2": "cat"
+    },
+    {
+      "id": "3",
+      "wordLng1": "Pferd",
+      "wordLng2": "horse"
+    },
+    {
+      "id": "4",
+      "wordLng1": "Löwe",
+      "wordLng2": "lion"
+    },
+    {
+      "id": "5",
+      "wordLng1": "Elefant",
+      "wordLng2": "elephant"
+    },
+    {
+      "id": "6",
+      "wordLng1": "Eichhörnchen",
+      "wordLng2": "squirrel"
+    },
+    {
+      "id": "7",
+      "wordLng1": "Vogel",
+      "wordLng2": "bird"
+    },
+    {
+      "id": "8",
+      "wordLng1": "Schwein",
+      "wordLng2": "pig"
+    }
+  ]
+}
+
+###
+
+POST http://localhost:8080/cardset
+Content-Type: application/json
+
+{
+  "cardsetName": "Animals",
+  "language1": "de",
+  "language2": "en",
+  "card":[
+    {
+      "id": "1",
+      "wordLng1": "Hund",
+      "wordLng2": "dog"
+    },
+    {
+      "id": "2",
+      "wordLng1": "Katze",
+      "wordLng2": "cat"
+    },
+    {
+      "id": "3",
+      "wordLng1": "Pferd",
+      "wordLng2": "horse"
+    },
+    {
+      "id": "4",
+      "wordLng1": "Löwe",
+      "wordLng2": "lion"
+    },
+    {
+      "id": "5",
+      "wordLng1": "Elefant",
+      "wordLng2": "elephant"
+    },
+    {
+      "id": "6",
+      "wordLng1": "Eichhörnchen",
+      "wordLng2": "squirrel"
+    },
+    {
+      "id": "7",
+      "wordLng1": "Vogel",
+      "wordLng2": "bird"
+    },
+    {
+      "id": "8",
+      "wordLng1": "Schwein",
+      "wordLng2": "pig"
+    }
+  ]
+}
+
+###
+
+POST http://localhost:8080/cardset
+Content-Type: application/json
+
+{
+  "cardsetName": "Animals",
+  "language1": "de",
+  "language2": "en",
+  "card":[
+    {
+      "id": "1",
+      "wordLng1": "Hund",
+      "wordLng2": "dog"
+    },
+    {
+      "id": "2",
+      "wordLng1": "Katze",
+      "wordLng2": "cat"
+    },
+    {
+      "id": "3",
+      "wordLng1": "Pferd",
+      "wordLng2": "horse"
+    },
+    {
+      "id": "4",
+      "wordLng1": "Löwe",
+      "wordLng2": "lion"
+    },
+    {
+      "id": "5",
+      "wordLng1": "Elefant",
+      "wordLng2": "elephant"
+    },
+    {
+      "id": "6",
+      "wordLng1": "Eichhörnchen",
+      "wordLng2": "squirrel"
+    },
+    {
+      "id": "7",
+      "wordLng1": "Vogel",
+      "wordLng2": "bird"
+    },
+    {
+      "id": "8",
+      "wordLng1": "Schwein",
+      "wordLng2": "pig"
+    }
+  ]
+}
+
+###
+
+POST http://localhost:8080/cardset
+Content-Type: application/json
+
+{
+  "cardsetName": "Animals",
+  "language1": "de",
+  "language2": "en",
+  "card":[
+    {
+      "_id": "1",
+      "wordLng1": "Hund",
+      "wordLng2": "dog"
+    },
+    {
+      "_id": "2",
+      "wordLng1": "Katze",
+      "wordLng2": "cat"
+    },
+    {
+      "_id": "3",
+      "wordLng1": "Pferd",
+      "wordLng2": "horse"
+    },
+    {
+      "_id": "4",
+      "wordLng1": "Löwe",
+      "wordLng2": "lion"
+    },
+    {
+      "_id": "5",
+      "wordLng1": "Elefant",
+      "wordLng2": "elephant"
+    },
+    {
+      "_id": "6",
+      "wordLng1": "Eichhörnchen",
+      "wordLng2": "squirrel"
+    },
+    {
+      "_id": "7",
+      "wordLng1": "Vogel",
+      "wordLng2": "bird"
+    },
+    {
+      "_id": "8",
+      "wordLng1": "Schwein",
+      "wordLng2": "pig"
+    }
+  ]
+}
+
+###
+
+POST http://localhost:8080/cardset
+Content-Type: application/json
+
+{
+  "cardsetName": "Animals",
+  "language1": "de",
+  "language2": "en",
+  "card":[
+    {
+      "_id": "1",
+      "wordLng1": "Hund",
+      "wordLng2": "dog"
+    },
+    {
+      "_id": "2",
+      "wordLng1": "Katze",
+      "wordLng2": "cat"
+    },
+    {
+      "_id": "3",
+      "wordLng1": "Pferd",
+      "wordLng2": "horse"
+    },
+    {
+      "_id": "4",
+      "wordLng1": "Löwe",
+      "wordLng2": "lion"
+    },
+    {
+      "_id": "5",
+      "wordLng1": "Elefant",
+      "wordLng2": "elephant"
+    },
+    {
+      "_id": "6",
+      "wordLng1": "Eichhörnchen",
+      "wordLng2": "squirrel"
+    },
+    {
+      "_id": "7",
+      "wordLng1": "Vogel",
+      "wordLng2": "bird"
+    },
+    {
+      "_id": "8",
+      "wordLng1": "Schwein",
+      "wordLng2": "pig"
+    }
+  ]
+}
+
+###
+
+POST http://localhost:8080/cardset
+Content-Type: application/json
+
+{
+  "cardsetName": "Animals",
+  "language1": "de",
+  "language2": "en",
+  "card":[
+    {
+      "_id": "1",
+      "wordLng1": "Hund",
+      "wordLng2": "dog"
+    },
+    {
+      "_id": "2",
+      "wordLng1": "Katze",
+      "wordLng2": "cat"
+    },
+    {
+      "_id": "3",
+      "wordLng1": "Pferd",
+      "wordLng2": "horse"
+    },
+    {
+      "_id": "4",
+      "wordLng1": "Löwe",
+      "wordLng2": "lion"
+    },
+    {
+      "_id": "5",
+      "wordLng1": "Elefant",
+      "wordLng2": "elephant"
+    },
+    {
+      "_id": "6",
+      "wordLng1": "Eichhörnchen",
+      "wordLng2": "squirrel"
+    },
+    {
+      "_id": "7",
+      "wordLng1": "Vogel",
+      "wordLng2": "bird"
+    },
+    {
+      "_id": "8",
+      "wordLng1": "Schwein",
+      "wordLng2": "pig"
+    }
+  ]
+}
+
+###
+
+POST http://localhost:8080/cardset
+Content-Type: application/json
+
+{
+  "cardsetName": "Animals",
+  "language1": "de",
+  "language2": "en",
+  "card":[
+    {
+      "_id": "1",
+      "wordLng1": "Hund",
+      "wordLng2": "dog"
+    },
+    {
+      "_id": "2",
+      "wordLng1": "Katze",
+      "wordLng2": "cat"
+    },
+    {
+      "_id": "3",
+      "wordLng1": "Pferd",
+      "wordLng2": "horse"
+    },
+    {
+      "_id": "4",
+      "wordLng1": "Löwe",
+      "wordLng2": "lion"
+    },
+    {
+      "_id": "5",
+      "wordLng1": "Elefant",
+      "wordLng2": "elephant"
+    },
+    {
+      "_id": "6",
+      "wordLng1": "Eichhörnchen",
+      "wordLng2": "squirrel"
+    },
+    {
+      "_id": "7",
+      "wordLng1": "Vogel",
+      "wordLng2": "bird"
+    },
+    {
+      "_id": "8",
+      "wordLng1": "Schwein",
+      "wordLng2": "pig"
+    }
+  ]
+}
+
+###
+
+POST http://localhost:8080/cardset
+Content-Type: application/json
+
+{
+  "cardsetName": "Animals",
+  "language1": "de",
+  "language2": "en",
+  "card":[
+    {
+      "wordLng1": "Hund",
+      "wordLng2": "dog"
+    },
+    {
+      "wordLng1": "Katze",
+      "wordLng2": "cat"
+    },
+    {
+      "wordLng1": "Pferd",
+      "wordLng2": "horse"
+    },
+    {
+      "wordLng1": "Löwe",
+      "wordLng2": "lion"
+    },
+    {
+      "wordLng1": "Elefant",
+      "wordLng2": "elephant"
+    },
+    {
+      "wordLng1": "Eichhörnchen",
+      "wordLng2": "squirrel"
+    },
+    {
+      "wordLng1": "Vogel",
+      "wordLng2": "bird"
+    },
+    {
+      "wordLng1": "Schwein",
+      "wordLng2": "pig"
+    }
+  ]
+}
+
+###
+
+POST http://localhost:8080/cardset
+Content-Type: application/json
+
+{
+  "cardsetName": "Animals",
+  "language1": "de",
+  "language2": "en",
+  "card":[
+    {
+      "id": 1,
+      "wordLng1": "Hund",
+      "wordLng2": "dog"
+    },
+    {
+      "id": 2,
+      "wordLng1": "Katze",
+      "wordLng2": "cat"
+    },
+    {
+      "id": 3,
+      "wordLng1": "Pferd",
+      "wordLng2": "horse"
+    },
+    {
+      "id": 4,
+      "wordLng1": "Löwe",
+      "wordLng2": "lion"
+    },
+    {
+      "id": 5,
+      "wordLng1": "Elefant",
+      "wordLng2": "elephant"
+    },
+    {
+      "id": 6,
+      "wordLng1": "Eichhörnchen",
+      "wordLng2": "squirrel"
+    },
+    {
+      "id": 7,
+      "wordLng1": "Vogel",
+      "wordLng2": "bird"
+    },
+    {
+      "id": 8,
+      "wordLng1": "Schwein",
+      "wordLng2": "pig"
+    }
+  ]
+}
+
+###
+
+POST http://localhost:8085/cardset
+Content-Type: application/json
+
+{
+  "cardsetName": "Fruits",
+  "language1": "de",
+  "language2": "en",
+  "card":[
+    {
+      "id": 1,
+      "word": "Apfel",
+      "connect": "1",
+      "switchState": "false"
+    },
+    {
+      "id": 2,
+      "word": "Apple",
+      "connect": "1",
+      "switchState": "false"
+    },
+    {
+      "id": 3,
+      "word": "Pfirsich",
+      "connect": "2",
+      "switchState": "false"
+    },
+    {
+      "id": 4,
+      "word": "Peach",
+      "connect": "2",
+      "switchState": "false"
+    },
+    {
+      "id": 5,
+      "word": "Banane",
+      "connect": "3",
+      "switchState": "false"
+    },
+    {
+      "id": 6,
+      "word": "Banana",
+      "connect": "3",
+      "switchState": "false"
+    },
+    {
+      "id": 7,
+      "word": "Erdbeere",
+      "connect": "4",
+      "switchState": "false"
+    },
+    {
+      "id": 8,
+      "word": "Strawberry",
+      "connect": "4",
+      "switchState": "false"
+    },
+    {
+      "id": 9,
+      "word": "Kirsche",
+      "connect": "5",
+      "switchState": "false"
+    },
+    {
+      "id": 10,
+      "word": "Cherry",
+      "connect": "5",
+      "switchState": "false"
+    },
+    {
+      "id": 11,
+      "word": "Zirone",
+      "connect": "6",
+      "switchState": "false"
+    },
+    {
+      "id": 12,
+      "word": "Lemon",
+      "connect": "6",
+      "switchState": "false"
+    },
+    {
+      "id": 13,
+      "word": "Blaubeere",
+      "connect": "7",
+      "switchState": "false"
+    },
+    {
+      "id": 14,
+      "word": "Blueberry",
+      "connect": "7",
+      "switchState": "false"
+    },
+    {
+      "id": 15,
+      "word": "Trauben",
+      "connect": "8",
+      "switchState": "false"
+    },
+    {
+      "id": 16,
+      "word": "Grappes",
+      "connect": "8",
+      "switchState": "false"
+    }
+  ]
+}
+
+###
+
+GET http://localhost:8080/cardset/getShuffeldCards2?_id=62bbc37132dabb6deb2ad9a0
+
+<> 2022-06-29T054809.200.json
+
+###
+
+POST http://localhost:8080/cardset
+Content-Type: application/json
+
+{
+  "cardsetName": "Fruits",
+  "language1": "de",
+  "language2": "en",
+  "card":[
+    {
+      "id": 1,
+      "word": "Apfel",
+      "connect": "1",
+      "switchState": "false"
+    },
+    {
+      "id": 2,
+      "word": "Apple",
+      "connect": "1",
+      "switchState": "false"
+    },
+    {
+      "id": 3,
+      "word": "Pfirsich",
+      "connect": "2",
+      "switchState": "false"
+    },
+    {
+      "id": 4,
+      "word": "Peach",
+      "connect": "2",
+      "switchState": "false"
+    },
+    {
+      "id": 5,
+      "word": "Banane",
+      "connect": "3",
+      "switchState": "false"
+    },
+    {
+      "id": 6,
+      "word": "Banana",
+      "connect": "3",
+      "switchState": "false"
+    },
+    {
+      "id": 7,
+      "word": "Erdbeere",
+      "connect": "4",
+      "switchState": "false"
+    },
+    {
+      "id": 8,
+      "word": "Strawberry",
+      "connect": "4",
+      "switchState": "false"
+    },
+    {
+      "id": 9,
+      "word": "Kirsche",
+      "connect": "5",
+      "switchState": "false"
+    },
+    {
+      "id": 10,
+      "word": "Cherry",
+      "connect": "5",
+      "switchState": "false"
+    },
+    {
+      "id": 11,
+      "word": "Zirone",
+      "connect": "6",
+      "switchState": "false"
+    },
+    {
+      "id": 12,
+      "word": "Lemon",
+      "connect": "6",
+      "switchState": "false"
+    },
+    {
+      "id": 13,
+      "word": "Blaubeere",
+      "connect": "7",
+      "switchState": "false"
+    },
+    {
+      "id": 14,
+      "word": "Blueberry",
+      "connect": "7",
+      "switchState": "false"
+    },
+    {
+      "id": 15,
+      "word": "Trauben",
+      "connect": "8",
+      "switchState": "false"
+    },
+    {
+      "id": 16,
+      "word": "Grappes",
+      "connect": "8",
+      "switchState": "false"
+    }
+  ]
+}
+
+###
+
+POST http://localhost:8080/cardset
+Content-Type: application/json
+
+{
+  "cardsetName": "Animals",
+  "language1": "de",
+  "language2": "en",
+  "card":[
+    {
+      "id": 1,
+      "word": "Hund",
+      "connect": "1",
+      "switchState": "false"
+    },
+    {
+      "id": 2,
+      "word": "Dog",
+      "connect": "1",
+      "switchState": "false"
+    },
+    {
+      "id": 3,
+      "word": "Katze",
+      "connect": "2",
+      "switchState": "false"
+    },
+    {
+      "id": 4,
+      "word": "Cat",
+      "connect": "2",
+      "switchState": "false"
+    },
+    {
+      "id": 5,
+      "word": "Pferd",
+      "connect": "3",
+      "switchState": "false"
+    },
+    {
+      "id": 6,
+      "word": "Horse",
+      "connect": "3",
+      "switchState": "false"
+    },
+    {
+      "id": 7,
+      "word": "Löwe",
+      "connect": "4",
+      "switchState": "false"
+    },
+    {
+      "id": 8,
+      "word": "Lion",
+      "connect": "4",
+      "switchState": "false"
+    },
+    {
+      "id": 9,
+      "word": "Elefant",
+      "connect": "5",
+      "switchState": "false"
+    },
+    {
+      "id": 10,
+      "word": "Elephant",
+      "connect": "5",
+      "switchState": "false"
+    },
+    {
+      "id": 11,
+      "word": "Eichhörnchen",
+      "connect": "6",
+      "switchState": "false"
+    },
+    {
+      "id": 12,
+      "word": "Squirrel",
+      "connect": "6",
+      "switchState": "false"
+    },
+    {
+      "id": 13,
+      "word": "Vogel",
+      "connect": "7",
+      "switchState": "false"
+    },
+    {
+      "id": 14,
+      "word": "Bird",
+      "connect": "7",
+      "switchState": "false"
+    },
+    {
+      "id": 15,
+      "word": "Bird",
+      "connect": "8",
+      "switchState": "false"
+    },
+    {
+      "id": 16,
+      "word": "Vogel",
+      "connect": "8",
+      "switchState": "false"
+    }
+  ]
+}
+
+###
+
+GET http://localhost:8085/cardset/getShuffeldCards?cardsetName=Fruits2
+
+GET http://localhost:8085/cardset/search/findByCardsetName
+Content-Type: application/json
+
+<> 2022-06-28T204824.200.json
+
+###
+
+GET http://localhost:8085/cardset/getShuffeldCards?cardsetName=Fruits2
+
+GET http://localhost:8085/cardset/search/findByCardsetName
+Content-Type: application/json
+
+<> 2022-06-28T204737.200.json
+
+###
+
+POST http://localhost:8080/cardset
+Content-Type: application/json
+
+{
+  "cardsetName": "Fruits2",
+  "language1": "de",
+  "language2": "en",
+  "card": [
+    {
+      "id": "1",
+      "wordLng1": "Apfel",
+      "wordLng2": "apple"
+    },
+    {
+      "id": 2,
+      "wordLng1": "Pfirsich",
+      "wordLng2": "peach"
+    }
+  ]
+}
+
+###
+
+POST http://localhost:8080/cardset
+Content-Type: application/json
+
+{
+  "cardsetName": "Fruits2",
+  "language1": "de",
+  "language2": "en",
+  "card": [
+    {
+      "id": "1",
+      "wordLng1": "Apfel",
+      "wordLng2": "apple"
+    },
+    {
+      "id": 2,
+      "wordLng1": "Pfirsich",
+      "wordLng2": "peach"
+    }
+  ]
+}
+
+###
+
+POST http://localhost:8080/cardset
+Content-Type: application/json
+
+{
+  "cardsetName": "Fruits2",
+  "language1": "de",
+  "language2": "en",
+  "card": [
+    {
+      "id": "1",
+      "wordLng1": "Apfel",
+      "wordLng2": "apple"
+    },
+    {
+      "id": 2,
+      "wordLng1": "Pfirsich",
+      "wordLng2": "peach"
+    }
+  ]
+}
+
+###
+
+POST http://localhost:8080/cardset
+Content-Type: application/json
+
+{
+  "cardsetName": "Fruits",
+  "language1": "de",
+  "language2": "en",
+  "card": [
+    {
+      "id": "1",
+      "wordLng1": "Apfel",
+      "wordLng2": "apple"
+    },
+    {
+      "id": 2,
+      "wordLng1": "Pfirsich",
+      "wordLng2": "peach"
+    }
+  ]
+}
+
+###
+
+POST http://localhost:8080/cardset
+Content-Type: application/json
+
+{
+  "id": "1",
+  "cardsetName": "Fruits",
+  "language1": "de",
+  "language2": "en",
+  "card": [
+    {
+      "id": "1",
+      "wordLng1": "Apfel",
+      "wordLng2": "apple"
+    },
+    {
+      "id": 2,
+      "wordLng1": "Pfirsich",
+      "wordLng2": "peach"
+    }
+  ]
+}
+
+###
+
+POST http://localhost:8080/cardset
+Content-Type: application/json
+
+{
+  "id": "1",
+  "cardsetName": "Fruits2",
+  "language1": "de",
+  "language2": "en",
+  "card": [
+    {
+      "id": "1",
+      "wordLng1": "Apfel",
+      "wordLng2": "apple"
+    },
+    {
+      "id": 2,
+      "wordLng1": "Pfirsich",
+      "wordLng2": "peach"
+    }
+  ]
+}
+
+###
+
+POST http://localhost:8080/cardset
+Content-Type: application/json
+
+{
+  "id": "1",
+  "cardsetName": "Fruits2",
+  "language1": "de",
+  "language2": "en",
+  "card": [
+    {
+      "id": 1,
+      "wordLng1": "Apfel",
+      "wordLng2": "apple"
+    },
+    {
+      "id": 2,
+      "wordLng1": "Pfirsich",
+      "wordLng2": "peach"
+    }
+  ]
+}
+
+###
+
+POST http://localhost:8085/cardset
+Content-Type: application/json
+
+{
+  "id": "1",
+  "cardsetName": "Fruits2",
+  "language1": "de",
+  "language2": "en",
+  "card": [
+    {
+      "id": 1,
+      "wordLng1": "Apfel",
+      "wordLng2": "apple"
+    },
+    {
+      "id": 2,
+      "wordLng1": "Pfirsich",
+      "wordLng2": "peach"
+    }
+  ]
+}
+
+###
+
+POST http://localhost:8085/cardset
+Content-Type: application/json
+
+{
+  "id": "1",
+  "cardsetName": "Fruits2",
+  "language1": "de",
+  "language2": "en",
+  "card": [
+    {
+      "id": 1,
+      "wordLng1": "Apfel",
+      "wordLng2": "apple"
+    },
+    {
+      "id": 2,
+      "wordLng1": "Pfirsich",
+      "wordLng2": "peach"
+    }
+  ]
+}
+
+###
+
+POST http://localhost:8085/cardset
+Content-Type: application/json
+
+{
+  "id": "1",
+  "cardsetName": "Fruits2",
+  "language1": "de",
+  "language2": "en",
+  "card": [
+    {
+      "id": 1,
+      "wordLng1": "Apfel",
+      "wordLng2": "apple"
+    },
+    {
+      "id": 2,
+      "wordLng1": "Pfirsich",
+      "wordLng2": "peach"
+    }
+  ]
+}
+
+###
+
+POST http://localhost:8080/cardset
+Content-Type: application/json
+
+{
+  "cardsetName": "Animals",
+  "language1": "de",
+  "language2": "en",
+  "card": [
+    {
+      "id": 1,
+      "wordLng1": "Hund",
+      "wordLng2": "dog"
+    },
+    {
+      "id": 2,
+      "wordLng1": "Katze",
+      "wordLng2": "cat"
+    }
+  ]
+}
+
+###
+
+POST http://localhost:8080/cardset
+Content-Type: application/json
+
+{
+  "cardsetName": "Fruits",
+  "language1": "de",
+  "language2": "en",
+  "card": [
+    {
+      "id": 1,
+      "wordLng1": "Apfel",
+      "wordLng2": "apple"
+    },
+    {
+      "id": 2,
+      "wordLng1": "Pfirsich",
+      "wordLng2": "peach"
+    }
+  ]
+}
+
+###
+
+POST http://localhost:8085/cardset
+Content-Type: application/json
+
+{
+  "cardsetName": "Fruits",
+  "language1": "de",
+  "language2": "en",
+  "card": [
+    {
+      "id": 1,
+      "wordLng1": "Apfel",
+      "wordLng2": "apple"
+    },
+    {
+      "id": 2,
+      "wordLng1": "Pfirsich",
+      "wordLng2": "peach"
+    }
+  ]
+}
+
+###
+
+POST http://localhost:8080/cardset
+Content-Type: application/json
+
+{
+  "cardsetName": "Fruits",
+  "language1": "de",
+  "language2": "en",
+  "card": [
+    {
+      "id": 1,
+      "wordLng1": "Apfel",
+      "wordLng2": "apple"
+    },
+    {
+      "id": 2,
+      "wordLng1": "Pfirsich",
+      "wordLng2": "peach"
+    }
+  ]
+}
+
+###
+
+POST http://localhost:8085/cardset
+Content-Type: application/json
+
+{
+  "cardsetName": "Fruits",
+  "language1": "de",
+  "language2": "en",
+  "card": [
+    {
+      "id": 1,
+      "wordLng1": "Apfel",
+      "wordLng2": "apple"
+    },
+    {
+      "id": 2,
+      "wordLng1": "Pfirsich",
+      "wordLng2": "peach"
+    }
+  ]
+}
+
+###
+
+POST http://localhost:8085/cardset
+Content-Type: application/json
+
+{
+  "cardsetName": "Animals",
+  "language1": "de",
+  "language2": "en",
+  "card": [
+    {
+      "id": 1,
+      "wordLng1": "Hund",
+      "wordLng2": "dog"
+    },
+    {
+      "id": 2,
+      "wordLng1": "Katze",
+      "wordLng2": "cat"
+    }
+  ]
+}
+
+###
+
+POST http://localhost:8085/cardset
+Content-Type: application/json
+
+{
+  "cardsetName": "Fruits",
+  "language1": "de",
+  "language2": "en",
+  "card": [
+    {
+      "id": 1,
+      "wordLng1": "Apfel",
+      "wordLng2": "apple"
+    },
+    {
+      "id": 2,
+      "wordLng1": "Pfirsich",
+      "wordLng2": "peach"
+    }
+  ]
+}
+
+###
+
+POST http://localhost:8085/cardset
+Content-Type: application/json
+
+{
+  "cardsetName": "Fruits",
+  "language1": "de",
+  "language2": "en",
+  "card": [
+    {
+      "id": 1,
+      "wordLng1": "Apfel",
+      "wordLng2": "apple"
+    },
+    {
+      "id": 2,
+      "wordLng1": "Pfirsich",
+      "wordLng2": "peach"
+    }
+  ]
+}
+
+###
+
+GET http://localhost:8085/cardset/search/findCardsetBy?cardsetName=Animals
+Content-Type: application/json
+
+###
+

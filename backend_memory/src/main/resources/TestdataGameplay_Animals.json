@@ -1,0 +1,103 @@
+{
+  "cardsetName": "Animals",
+  "language1": "de",
+  "language2": "en",
+  "card":[
+    {
+      "id": 1,
+      "word": "Hund",
+      "connect": "1",
+      "switchState": "false"
+    },
+    {
+      "id": 2,
+      "word": "Dog",
+      "connect": "1",
+      "switchState": "false"
+    },
+    {
+      "id": 3,
+      "word": "Katze",
+      "connect": "2",
+      "switchState": "false"
+    },
+    {
+      "id": 4,
+      "word": "Cat",
+      "connect": "2",
+      "switchState": "false"
+    },
+    {
+      "id": 5,
+      "word": "Pferd",
+      "connect": "3",
+      "switchState": "false"
+    },
+    {
+      "id": 6,
+      "word": "Horse",
+      "connect": "3",
+      "switchState": "false"
+    },
+    {
+      "id": 7,
+      "word": "Löwe",
+      "connect": "4",
+      "switchState": "false"
+    },
+    {
+      "id": 8,
+      "word": "Lion",
+      "connect": "4",
+      "switchState": "false"
+    },
+    {
+      "id": 9,
+      "word": "Elefant",
+      "connect": "5",
+      "switchState": "false"
+    },
+    {
+      "id": 10,
+      "word": "Elephant",
+      "connect": "5",
+      "switchState": "false"
+    },
+    {
+      "id": 11,
+      "word": "Eichhörnchen",
+      "connect": "6",
+      "switchState": "false"
+    },
+    {
+      "id": 12,
+      "word": "Squirrel",
+      "connect": "6",
+      "switchState": "false"
+    },
+    {
+      "id": 13,
+      "word": "Vogel",
+      "connect": "7",
+      "switchState": "false"
+    },
+    {
+      "id": 14,
+      "word": "Bird",
+      "connect": "7",
+      "switchState": "false"
+    },
+    {
+      "id": 15,
+      "word": "Bird",
+      "connect": "8",
+      "switchState": "false"
+    },
+    {
+      "id": 16,
+      "word": "Vogel",
+      "connect": "8",
+      "switchState": "false"
+    }
+  ]
+}

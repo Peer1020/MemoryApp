@@ -1,0 +1,47 @@
+{
+  "cardsetName": "Fruits",
+  "language1": "de",
+  "language2": "en",
+  "card":[
+    {
+      "id": 1,
+      "wordLng1": "Apfel",
+      "wordLng2": "apple"
+    },
+    {
+      "id": 2,
+      "wordLng1": "Pfirsich",
+      "wordLng2": "peach"
+    },
+    {
+      "id": 3,
+      "wordLng1": "Banane",
+      "wordLng2": "banana"
+    },
+    {
+      "id": 4,
+      "wordLng1": "Erdbeere",
+      "wordLng2": "strawberry"
+    },
+    {
+      "id": 5,
+      "wordLng1": "Kirsche",
+      "wordLng2": "cherry"
+    },
+    {
+      "id": 6,
+      "wordLng1": "Zitrone",
+      "wordLng2": "lemon"
+    },
+    {
+      "id": 7,
+      "wordLng1": "Blaubeere",
+      "wordLng2": "blueberry"
+    },
+    {
+      "id": 8,
+      "wordLng1": "Trauben",
+      "wordLng2": "grapes"
+    }
+  ]
+}

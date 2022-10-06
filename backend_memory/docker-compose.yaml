@@ -1,0 +1,22 @@
+version: '3'
+
+services:
+  backend_memory:
+    image: 'backend_memory_backend_memory:latest'
+    build:
+      dockerfile: Dockerfile
+      context: .
+    environment:
+      - DATABASE_URL= mongodb://localhost:27017/test
+      - SPRING_DATA_MONGODB_.HOST=mongodb
+      - SERVER_PORT= 8085
+    ports:
+      - "8085:8085"
+  mongodb:
+    image: mongo:latest
+    expose:
+      - "27017"
+    environment:
+      - MONGO_INITDB_DATABASE=Memory
+    ports:
+      - "0.0.0.0:27017:27017"

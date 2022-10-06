@@ -1,0 +1,108 @@
+{
+  "_id": {
+    "timestamp": 1656472433,
+    "date": "2022-06-29T03:13:53.000+00:00"
+  },
+  "cardsetName": "Animals",
+  "language1": "de",
+  "language2": "en",
+  "card": [
+    {
+      "_id": "4",
+      "word": "Cat",
+      "connect": "2",
+      "switchState": "false"
+    },
+    {
+      "_id": "9",
+      "word": "Elefant",
+      "connect": "5",
+      "switchState": "false"
+    },
+    {
+      "_id": "8",
+      "word": "Lion",
+      "connect": "4",
+      "switchState": "false"
+    },
+    {
+      "_id": "12",
+      "word": "Squirrel",
+      "connect": "6",
+      "switchState": "false"
+    },
+    {
+      "_id": "6",
+      "word": "Horse",
+      "connect": "3",
+      "switchState": "false"
+    },
+    {
+      "_id": "16",
+      "word": "Vogel",
+      "connect": "8",
+      "switchState": "false"
+    },
+    {
+      "_id": "1",
+      "word": "Hund",
+      "connect": "1",
+      "switchState": "false"
+    },
+    {
+      "_id": "11",
+      "word": "Eichhörnchen",
+      "connect": "6",
+      "switchState": "false"
+    },
+    {
+      "_id": "13",
+      "word": "Vogel",
+      "connect": "7",
+      "switchState": "false"
+    },
+    {
+      "_id": "10",
+      "word": "Elephant",
+      "connect": "5",
+      "switchState": "false"
+    },
+    {
+      "_id": "7",
+      "word": "Löwe",
+      "connect": "4",
+      "switchState": "false"
+    },
+    {
+      "_id": "15",
+      "word": "Bird",
+      "connect": "8",
+      "switchState": "false"
+    },
+    {
+      "_id": "14",
+      "word": "Bird",
+      "connect": "7",
+      "switchState": "false"
+    },
+    {
+      "_id": "3",
+      "word": "Katze",
+      "connect": "2",
+      "switchState": "false"
+    },
+    {
+      "_id": "5",
+      "word": "Pferd",
+      "connect": "3",
+      "switchState": "false"
+    },
+    {
+      "_id": "2",
+      "word": "Dog",
+      "connect": "1",
+      "switchState": "false"
+    }
+  ],
+  "_class": "backendmemory.domain.Cardset"
+}

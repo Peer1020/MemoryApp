@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f49390fd-1635-4de8-a76c-cad40dbcb383" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Kotlin File" />
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Use Maven wrapper" />
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="283QQyAzBtCXn1PdWB5PfpF6cXn" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;SDKs&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;actions.on.save&quot;,
+    &quot;show.run.dashboard.notification&quot;: &quot;false&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;03e4724df3811278aec21c062786a504&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="backendmemory.domain" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="HTTP Request.rest-api_1 | #2">
+    <configuration name="rest-api | Send POST request with json body#1" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$APPLICATION_CONFIG_DIR$/scratches/rest-api.http" index="4" requestIdentifier="Send POST request with json body#1" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <configuration name="rest-api_1 | Send POST request with json body" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$APPLICATION_CONFIG_DIR$/scratches/rest-api_1.http" requestIdentifier="Send POST request with json body" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <configuration name="rest-api_1 | #2" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$APPLICATION_CONFIG_DIR$/scratches/rest-api_1.http" index="2" requestIdentifier="#2" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <configuration name="RecordRestAPITest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="accessing-mongodb-data-rest-complete" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="backendmemory.record.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="backendmemory.record" />
+      <option name="MAIN_CLASS_NAME" value="backendmemory.record.RecordRestAPITest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RecordRestAPITest.shouldPartiallyUpdateEntity" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="accessing-mongodb-data-rest-complete" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="backendmemory.record.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="backendmemory.record" />
+      <option name="MAIN_CLASS_NAME" value="backendmemory.record.RecordRestAPITest" />
+      <option name="METHOD_NAME" value="shouldPartiallyUpdateEntity" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="Backend_Memory" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="Backend_Memory" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AccessingMongodbDataRestApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="Backend_Memory" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="backendmemory.AccessingMongodbDataRestApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AccessingMongodbDataRestApplication (2)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="accessing-mongodb-data-rest-complete" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="backendmemory.AccessingMongodbDataRestApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AccessingMongodbDataRestApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <option name="ACTIVE_PROFILES" />
+      <module name="accessing-mongodb-data-rest-complete" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="main.java.com.example.accessingmongodbdatarest.AccessingMongodbDataRestApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="HTTP Request.rest-api_1 | #2" />
+        <item itemvalue="HTTP Request.rest-api_1 | Send POST request with json body" />
+        <item itemvalue="HTTP Request.rest-api | Send POST request with json body#1" />
+        <item itemvalue="JUnit.RecordRestAPITest" />
+        <item itemvalue="JUnit.RecordRestAPITest.shouldPartiallyUpdateEntity" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SpringBeansView">
+    <option name="showImplicitBeans" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f49390fd-1635-4de8-a76c-cad40dbcb383" name="Changes" comment="" />
+      <created>1650442784970</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1650442784970</updated>
+      <workItem from="1650442790123" duration="1061000" />
+      <workItem from="1650448380606" duration="402000" />
+      <workItem from="1650463745546" duration="697000" />
+      <workItem from="1650464449842" duration="141000" />
+      <workItem from="1650464616740" duration="3295000" />
+      <workItem from="1650516144933" duration="2975000" />
+      <workItem from="1650636969874" duration="2533000" />
+      <workItem from="1650646327017" duration="2759000" />
+      <workItem from="1650780108482" duration="195000" />
+      <workItem from="1650860304361" duration="15784000" />
+      <workItem from="1651033169271" duration="20346000" />
+      <workItem from="1651339483027" duration="12314000" />
+      <workItem from="1651676120862" duration="591000" />
+      <workItem from="1651901935318" duration="593000" />
+      <workItem from="1652032603910" duration="7000" />
+      <workItem from="1652776185147" duration="17515000" />
+      <workItem from="1653073889028" duration="1987000" />
+      <workItem from="1653728780182" duration="569000" />
+      <workItem from="1653828310035" duration="9363000" />
+      <workItem from="1654354392158" duration="326000" />
+      <workItem from="1654354751984" duration="120000" />
+      <workItem from="1654354878515" duration="7063000" />
+      <workItem from="1654439030167" duration="22622000" />
+      <workItem from="1654659826142" duration="14839000" />
+      <workItem from="1654763884252" duration="4407000" />
+      <workItem from="1654832187115" duration="7266000" />
+      <workItem from="1654938878447" duration="1273000" />
+      <workItem from="1655022739891" duration="12436000" />
+      <workItem from="1655386852223" duration="19011000" />
+      <workItem from="1655700458680" duration="6051000" />
+      <workItem from="1655785254986" duration="24679000" />
+      <workItem from="1656253810190" duration="47133000" />
+      <workItem from="1658502136955" duration="3136000" />
+      <workItem from="1658508806790" duration="719000" />
+      <workItem from="1658593772207" duration="652000" />
+      <workItem from="1658594482416" duration="6749000" />
+      <workItem from="1658942877795" duration="8205000" />
+      <workItem from="1659876687247" duration="4016000" />
+      <workItem from="1660027576597" duration="2482000" />
+      <workItem from="1660201341822" duration="121000" />
+      <workItem from="1660327289320" duration="11250000" />
+      <workItem from="1661516464362" duration="1571000" />
+      <workItem from="1661687395416" duration="1250000" />
+      <workItem from="1661695623287" duration="594000" />
+      <workItem from="1661879477163" duration="312000" />
+      <workItem from="1662297929555" duration="7533000" />
+      <workItem from="1663182380530" duration="1649000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.StringIndexOutOfBoundsException" package="java.lang" />
+          <option name="timeStamp" value="8" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo parentTag="com.mongodb.client.internal.FindIterableImpl" memberName="operations" />
+      </pinned-members>
+    </pin-to-top-manager>
+    <watches-manager>
+      <configuration name="SpringBootApplicationConfigurationType">
+        <watch expression="((FindIterableImpl)cursor).resultClass" custom="com.mongodb.client.internal.FindIterableImpl" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

@@ -1,0 +1,47 @@
+{
+  "cardsetName": "Animals",
+  "language1": "de",
+  "language2": "en",
+  "card":[
+    {
+      "id": 1,
+      "wordLng1": "Hund",
+      "wordLng2": "dog"
+    },
+    {
+      "id": 2,
+      "wordLng1": "Katze",
+      "wordLng2": "cat"
+    },
+    {
+      "id": 3,
+      "wordLng1": "Pferd",
+      "wordLng2": "horse"
+    },
+    {
+      "id": 4,
+      "wordLng1": "Löwe",
+      "wordLng2": "lion"
+    },
+    {
+      "id": 5,
+      "wordLng1": "Elefant",
+      "wordLng2": "elephant"
+    },
+    {
+      "id": 6,
+      "wordLng1": "Eichhörnchen",
+      "wordLng2": "squirrel"
+    },
+    {
+      "id": 7,
+      "wordLng1": "Vogel",
+      "wordLng2": "bird"
+    },
+    {
+      "id": 8,
+      "wordLng1": "Schwein",
+      "wordLng2": "pig"
+    }
+  ]
+}

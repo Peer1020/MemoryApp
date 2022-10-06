@@ -1,0 +1,103 @@
+{
+  "cardsetName": "Fruits",
+  "language1": "de",
+  "language2": "en",
+  "card":[
+    {
+      "id": 1,
+      "word": "Apfel",
+      "connect": "1",
+      "switchState": "false"
+    },
+    {
+      "id": 2,
+      "word": "Apple",
+      "connect": "1",
+      "switchState": "false"
+    },
+    {
+      "id": 3,
+      "word": "Pfirsich",
+      "connect": "2",
+      "switchState": "false"
+    },
+    {
+      "id": 4,
+      "word": "Peach",
+      "connect": "2",
+      "switchState": "false"
+    },
+    {
+      "id": 5,
+      "word": "Banane",
+      "connect": "3",
+      "switchState": "false"
+    },
+    {
+      "id": 6,
+      "word": "Banana",
+      "connect": "3",
+      "switchState": "false"
+    },
+    {
+      "id": 7,
+      "word": "Erdbeere",
+      "connect": "4",
+      "switchState": "false"
+    },
+    {
+      "id": 8,
+      "word": "Strawberry",
+      "connect": "4",
+      "switchState": "false"
+    },
+    {
+      "id": 9,
+      "word": "Kirsche",
+      "connect": "5",
+      "switchState": "false"
+    },
+    {
+      "id": 10,
+      "word": "Cherry",
+      "connect": "5",
+      "switchState": "false"
+    },
+    {
+      "id": 11,
+      "word": "Zirone",
+      "connect": "6",
+      "switchState": "false"
+    },
+    {
+      "id": 12,
+      "word": "Lemon",
+      "connect": "6",
+      "switchState": "false"
+    },
+    {
+      "id": 13,
+      "word": "Blaubeere",
+      "connect": "7",
+      "switchState": "false"
+    },
+    {
+      "id": 14,
+      "word": "Blueberry",
+      "connect": "7",
+      "switchState": "false"
+    },
+    {
+      "id": 15,
+      "word": "Trauben",
+      "connect": "8",
+      "switchState": "false"
+    },
+    {
+      "id": 16,
+      "word": "Grappes",
+      "connect": "8",
+      "switchState": "false"
+    }
+  ]
+}

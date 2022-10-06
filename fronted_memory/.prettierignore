@@ -1,0 +1,14 @@
+# Ignore artifacts:
+public
+node_modules
+build
+coverage
+dist
+.idea
+.DS_Store
+
+# Ignore some other files:
+*.html
+*.md
+*.env.*
+*.log
